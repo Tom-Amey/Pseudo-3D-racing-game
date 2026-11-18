@@ -3,9 +3,6 @@
 A retro 90s-inspired arcade racing game built from scratch in **Python** using **Pygame**, **Tkinter**, and **SQLite**—featuring a custom **pseudo-3D rendering engine** without external 3D libraries.
 
 ## 🎮 Gameplay Preview
-*(Drag or paste your curved-road gameplay screenshot here!)*
-
-## Gameplay
 <img width="443" height="250" alt="image" src="https://github.com/user-attachments/assets/b3c1a1dd-cd98-4448-9a49-69e85f8069da" />
 <img width="591" height="332" alt="image" src="https://github.com/user-attachments/assets/2d8e4775-31ef-4dbc-b196-6c6f5b7505a9" />
 
